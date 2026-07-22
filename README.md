@@ -1,0 +1,1 @@
+This is an hands-on session
